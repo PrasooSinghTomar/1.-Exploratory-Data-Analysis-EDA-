@@ -1,0 +1,9 @@
+1. Exploratory Data Analysis (EDA) on a Simple Dataset
+
+Need - NumPy, Pandas, Matplotlib
+
+a - Take a small CSV from Kaggle or UCI (e.g., Iris, Titanic subset, or any 1–2k row dataset).
+
+b - Tasks: load with pandas, clean missing values, compute summary stats (mean, median, std, correlations), and create 4–5 plots (histograms, boxplots, scatter plots, bar charts) with Matplotlib.
+
+c - Deliverable: one Jupyter notebook with clean EDA, plots, and short text comments on patterns you observe.
